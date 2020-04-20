@@ -32391,7 +32391,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rWCzGhiFqT UL {
-  text-align: left;
+  text-align: center;
 }
 .cid-rWG3IVODg2 {
   padding-top: 30px;
@@ -32427,36 +32427,47 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   content: '✓';
 }
-.cid-rWF3rdtray {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/mbr-9.jpg");
+.cid-rWId90Xs6N {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  position: relative;
+  background-color: #ffffff;
 }
-.cid-rWF3rdtray .title {
-  margin-bottom: 2rem;
+.cid-rWId90Xs6N p {
+  color: #767676;
 }
-.cid-rWF3rdtray .mbr-section-subtitle {
-  color: #232323;
+.cid-rWId90Xs6N .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
 }
-.cid-rWF3rdtray a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
+.cid-rWId90Xs6N .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
 }
-.cid-rWF3rdtray a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rWF3rdtray .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-rWF3rdtray .input-group-btn {
+.cid-rWId90Xs6N .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
   display: block;
-  text-align: center;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-rWId90Xs6N .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rWId90Xs6N .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-rWId90Xs6N .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
 }
 .cid-rWFaR0HCTe {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   position: relative;
   background-color: #ffffff;
 }
@@ -32491,6 +32502,26 @@ section.lazy-placeholder:after {
 }
 .cid-rWFaR0HCTe .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
+}
+.cid-rWIhbgdTLe {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rWIhbgdTLe .title {
+  margin-bottom: 2rem;
+}
+.cid-rWIhbgdTLe .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rWIhbgdTLe textarea.form-control {
+  min-height: 188px;
+}
+.cid-rWIhbgdTLe label {
+  color: #232323;
+}
+.cid-rWIhbgdTLe .mbr-section-terms {
+  text-align: center;
 }
 .cid-rWCzGibgMJ {
   padding-top: 60px;
