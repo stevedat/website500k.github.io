@@ -30030,6 +30030,33 @@ section.lazy-placeholder:after {
 .cid-rWCzGhiFqT UL {
   text-align: left;
 }
+.cid-rWF3rdtray {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-9.jpg");
+}
+.cid-rWF3rdtray .title {
+  margin-bottom: 2rem;
+}
+.cid-rWF3rdtray .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rWF3rdtray a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rWF3rdtray a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rWF3rdtray .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-rWF3rdtray .input-group-btn {
+  display: block;
+  text-align: center;
+}
 .cid-rWCzGibgMJ {
   padding-top: 60px;
   padding-bottom: 30px;
