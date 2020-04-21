@@ -32631,6 +32631,18 @@ section.lazy-placeholder:after {
 .cid-rWLPmhWwXu textarea.form-control {
   min-height: 188px;
 }
+.cid-rWM6SaayBg {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rWM6SaayBg .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rWM6SaayBg .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rWLMKHmgWE {
   background-color: #2e2e2e;
 }
